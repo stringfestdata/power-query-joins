@@ -1,2 +1,1 @@
-# power-query-joins
-All about joins in Power Query
+# All about joins in Power Query
